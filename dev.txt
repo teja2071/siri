@@ -1,0 +1,2 @@
+today i should prepare git,jenkins,docker and kubernates
+
